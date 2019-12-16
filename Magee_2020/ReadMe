@@ -1,0 +1,63 @@
+J/A+A/XXX/XXX    TURTLS Light curves of ^{56}Ni distributions    (Magee+, 2020)
+================================================================================
+Determining the ^{56}Ni distribution of type Ia supernovae 
+from observations within days of explosion
+       Magee M. R., Maguire K., Kotak R., Sim S. A.,
+       Gillanders J. H., Prentice S. J., Skillen K.
+      <Astron. Astrophys. XXX, XXX (2020)>
+      =2020A&A...XXX..XXX
+================================================================================
+ADC_Keywords: Supernovae ; Models
+Keywords: supernovae: general
+          radiative transfer
+
+Abstract:
+    We present the colour light curves and density profiles for models 
+    calculated with TURTLS (Magee et al. 2018). Models are calculated
+    for different ^{56}Ni masses and distributions, and density profiles.
+    For each model, absolute magnitude model light curves in the UBVRIgri 
+    bands are given, in addition to a description of the ejecta density 
+    profile and ^{56}Ni distribution. 
+
+
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe            80          .   This file
+LightCurves/*      142         255   Individual model light curves
+DensityProfiles/*        71        255 Individual model density profiles
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: LightCurves/* (1 headlines)
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  13  E1.6    days     Time    Days since explosion
+   17-30   E1.6    mag      UMag   Absolute U band magnitude
+   33-46   E1.6    mag      BMag   Absolute B band magnitude
+   49-62   E1.6    mag      VMag   Absolute V band magnitude
+   65-78   E1.6    mag      RMag   Absolute R band magnitude
+   81-94   E1.6    mag      IMag   Absolute I band magnitude
+   97-110   E1.6    mag      gMag   Absolute g band magnitude
+   113-126   E1.6    mag      rMag   Absolute r band magnitude
+   129-142   E1.6    mag      iMag   Absolute i band magnitude
+
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: DensityProfiles/* (2 headlines)
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  13  E1.6    -     Index    Zone index
+   15-27   E1.6    km/s      Velocity   Zone outer velocity
+   30-42   E1.6    g/cm3      Density   Zone density at 20s after explosion
+   45-57   E1.6    -      Fraction   ^{56}Ni mass fraction at explosion
+
+--------------------------------------------------------------------------------
+
+Acknowledgements: Mark Magee <mrmagee.astro@gmail.com>
+
+================================================================================
+(End)                            Mark Magee [TCD, Ireland]     16-Dec-2019
