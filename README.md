@@ -3,8 +3,6 @@ A collection of model light curves calculated using TURTLS.
 
 If you make use of any of these models, please cite [Magee et al. 2018](https://ui.adsabs.harvard.edu/abs/2018A%26A...614A.115M/abstract), which describes TURTLS in detail.
 
-.. code-block:: none
-
 	@ARTICLE{2018A&A...614A.115M,
        	author = {{Magee}, M.~R. and {Sim}, S.~A. and {Kotak}, R. and {Kerzendorf}, W.~E.},
         	title = "{Modelling the early time behaviour of type Ia supernovae: effects of the $^{56}$Ni distribution}",
@@ -25,8 +23,6 @@ If you make use of any of these models, please cite [Magee et al. 2018](https://
 ====================
 
 If you make use of the 56Ni distribution models, please cite [Magee et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..37M/abstract).
-
-.. code-block:: none
 
 	@ARTICLE{2020A&A...634A..37M,
        	author = {{Magee}, M.~R. and {Maguire}, K. and {Kotak}, R. and {Sim}, S.~A. and
@@ -49,8 +45,6 @@ If you make use of the 56Ni distribution models, please cite [Magee et al. 2020]
 ====================
 
 If you make use of the 56Ni clump models, please cite [Magee & Maguire. 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200702101M/abstract).
-
-.. code-block:: none
 
 	@ARTICLE{2020arXiv200702101M,
        	author = {{Magee}, M.~R. and {Maguire}, K.},
