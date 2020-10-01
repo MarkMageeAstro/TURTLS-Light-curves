@@ -14,13 +14,12 @@ If you make use of any of these models, please cite [Magee et al. 2018](https://
           	eid = {A115},
         	pages = {A115},
           	doi = {10.1051/0004-6361/201832675},
-			archivePrefix = {arXiv},
+		archivePrefix = {arXiv},
        	eprint = {1803.04436},
- 	primaryClass = {astro-ph.HE},
+ 		primaryClass = {astro-ph.HE},
        	adsurl = {https://ui.adsabs.harvard.edu/abs/2018A&A...614A.115M},
       	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
-====================
 
 If you make use of the 56Ni distribution models, please cite [Magee et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..37M/abstract).
 
@@ -36,15 +35,14 @@ If you make use of the 56Ni distribution models, please cite [Magee et al. 2020]
           	eid = {A37},
         	pages = {A37},
           	doi = {10.1051/0004-6361/201936684},
-			archivePrefix = {arXiv},
+		archivePrefix = {arXiv},
        	eprint = {1912.07603},
- 	primaryClass = {astro-ph.HE},
+ 		primaryClass = {astro-ph.HE},
        	adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...634A..37M},
       	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
-====================
 
-If you make use of the 56Ni clump models, please cite [Magee & Maguire. 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200702101M/abstract).
+If you make use of the 56Ni clump models, please cite [Magee & Maguire 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200702101M/abstract).
 
 	@ARTICLE{2020arXiv200702101M,
        	author = {{Magee}, M.~R. and {Maguire}, K.},
