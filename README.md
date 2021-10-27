@@ -21,6 +21,7 @@ If you make use of any of these models, please cite [Magee et al. 2018](https://
       	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
 
+
 If you make use of the 56Ni distribution models, please cite [Magee et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A..37M/abstract).
 
 	@ARTICLE{2020A&A...634A..37M,
@@ -42,20 +43,44 @@ If you make use of the 56Ni distribution models, please cite [Magee et al. 2020]
       	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
 
-If you make use of the 56Ni clump models, please cite [Magee & Maguire 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200702101M/abstract).
 
-	@ARTICLE{2020arXiv200702101M,
+If you make use of the 56Ni clump models, please cite [Magee & Maguire 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...642A.189M/abstract).
+
+	@ARTICLE{2020A&A...642A.189M,
        	author = {{Magee}, M.~R. and {Maguire}, K.},
-        	title = "{Nickel clumps and light curve bumps: Light curves and spectra of models with macroscopic $^{56}$Ni clumps in the outer ejecta}",
-      	journal = {arXiv e-prints},
-     	keywords = {Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics},
+        	title = "{An investigation of $^{56}$Ni shells as the source of early light curve bumps in type Ia supernovae}",
+      	journal = {\aap},
+     	keywords = {radiative transfer, supernovae: general, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar 	Astrophysics},
          	year = 2020,
-        	month = jul,
-          	eid = {arXiv:2007.02101},
-        	pages = {arXiv:2007.02101},
+        	month = oct,
+       	volume = {642},
+          	eid = {A189},
+        	pages = {A189},
+          	doi = {10.1051/0004-6361/202037870},
 			archivePrefix = {arXiv},
        	eprint = {2007.02101},
  	primaryClass = {astro-ph.HE},
-       	adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv200702101M},
+       	adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...642A.189M},
       	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+	}
+
+
+	If you make use of the double detonation models, please cite [Magee et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3533M/abstract).
+
+	@ARTICLE{2021MNRAS.502.3533M,
+	       author = {{Magee}, M.~R. and {Maguire}, K. and {Kotak}, R. and {Sim}, S.~A.},
+	        title = "{Exploring the diversity of double-detonation explosions for Type Ia supernovae: effects of the post-explosion helium shell composition}",
+	      journal = {\mnras},
+	     keywords = {radiative transfer, supernovae: general, Astrophysics - High Energy Astrophysical Phenomena},
+	         year = 2021,
+	        month = apr,
+	       volume = {502},
+	       number = {3},
+	        pages = {3533-3553},
+	          doi = {10.1093/mnras/stab201},
+	archivePrefix = {arXiv},
+	       eprint = {2101.09792},
+	 primaryClass = {astro-ph.HE},
+	       adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3533M},
+	      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
