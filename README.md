@@ -84,3 +84,21 @@ If you make use of the double detonation models, please cite [Magee et al. 2021]
        	adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3533M},
       	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
+	
+
+If you make use of the companion interaction models, please cite [Magee et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1007M/abstract).
+	
+	@ARTICLE{2022MNRAS.tmp.1007M,
+       author = {{Magee}, M.~R. and {Cuddy}, C. and {Maguire}, K. and {Deckers}, M. and {Dhawan}, S. and {Frohmaier}, C. and {Miller}, A.~A. and {Nordin}, J. and {Coughlin}, M.~W. and {Feinstein}, F. and {Riddle}, R.},
+        title = "{The detection efficiency of type Ia supernovae from the Zwicky Transient Facility: Limits on the intrinsic rate of early flux excesses}",
+      journal = {\mnras},
+     keywords = {supernovae: general, radiative transfer},
+         year = 2022,
+        month = apr,
+          doi = {10.1093/mnras/stac1045},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1007M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+	
