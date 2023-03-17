@@ -86,19 +86,27 @@ If you make use of the double detonation models, please cite [Magee et al. 2021]
 	}
 	
 
-If you make use of the companion interaction models, please cite [Magee et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1007M/abstract).
+If you make use of the companion interaction models, please cite [Magee et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3035M/abstract).
 	
-	@ARTICLE{2022MNRAS.tmp.1007M,
+	@ARTICLE{2022MNRAS.513.3035M,
        author = {{Magee}, M.~R. and {Cuddy}, C. and {Maguire}, K. and {Deckers}, M. and {Dhawan}, S. and {Frohmaier}, C. and {Miller}, A.~A. and {Nordin}, J. and {Coughlin}, M.~W. and {Feinstein}, F. and {Riddle}, R.},
-        title = "{The detection efficiency of type Ia supernovae from the Zwicky Transient Facility: Limits on the intrinsic rate of early flux excesses}",
+        title = "{The detection efficiency of Type Ia supernovae from the Zwicky Transient Facility: limits on the intrinsic rate of early flux excesses}",
       journal = {\mnras},
-     keywords = {supernovae: general, radiative transfer},
+     keywords = {radiative transfer, supernovae: general, Astrophysics - High Energy Astrophysical Phenomena},
          year = 2022,
-        month = apr,
+        month = jun,
+       volume = {513},
+       number = {2},
+        pages = {3035-3049},
           doi = {10.1093/mnras/stac1045},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1007M},
+		archivePrefix = {arXiv},
+       eprint = {2204.09705},
+ 	primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3035M},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+
 
 
 	
